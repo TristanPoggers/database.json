@@ -1,5 +1,9 @@
 {
   "Whitelist": [12345678, 87654321],
-  "Mods": [17215700],
-  "Reporters": [9999999]
+  "ModGroups": [17215700],
+  "ModUsers": [],
+  "Reporters": [],
+  "VerifiedUsers": [],
+  "WatchedUsers": [162337279, 39815049],
+  "WatchedGroups": [5977234, 1049277534, 7797858]
 }
